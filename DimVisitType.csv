@@ -1,0 +1,6 @@
+VisitTypeID,VisitName,Window,ExpectedWindowDays
+VT01,Screening Visit,Day 0 to 30,30
+VT02,Baseline Visit,Day 0,0
+VT03,Week 4 Follow-up,Day 28±3 ,28
+VT04,Month 3 Follow-up,Day 90±7,90
+VT05,End-of-Study Visit,Final visit ±14 days,180
